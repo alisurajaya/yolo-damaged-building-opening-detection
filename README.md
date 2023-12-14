@@ -15,4 +15,4 @@ Damaged building opening dataset: [download here](https://drive.google.com/file/
 Pre-trained damaged building opening detection model: [YOLOv5-MTL](https://drive.google.com/file/d/1EdQMgeCB8GG1j-spf2FcklV7HY8zhlk8/view?usp=sharing), [YOLOv5single](https://drive.google.com/file/d/1TEEnCnfSYTMLBEGnLcTTatcB3B301BFU/view?usp=sharing)
 
 # Training and Prediction
-We documented the training process and prediction workflow on Google Colaboratory.
+We documented the training process and prediction workflow on Google Colaboratory (YOLOv5_MTL_Project.ipynb).
